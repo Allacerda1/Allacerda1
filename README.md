@@ -45,7 +45,7 @@ Atualmente estou trabalhando em<br>Estudos práticos de SQL Server e SQLite apli
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/Allacerda1/Allacerda1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Allacerda1/Allacerda1/output/github-contribution-grid-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
 
