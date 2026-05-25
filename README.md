@@ -41,7 +41,7 @@ Atualmente estou trabalhando em<br>Estudos práticos de SQL Server e SQLite apli
   </tr>
 </table>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Allacerda1&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Allacerda1&theme=dracula&hide_border=false&layout=compact&langs_count=8&exclude_repo=Allacerda1)
 
 ## 🐍 Contribuições
 
